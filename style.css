@@ -17,10 +17,13 @@ html{
     margin: 0;
 }
 
-.containe {
+.container {
     max-width: 1728px;
     width: 100%;
     margin:0 auto;
+}
+.card_header-img{border: 1px solid black;
+
 }
 
 /*i{
